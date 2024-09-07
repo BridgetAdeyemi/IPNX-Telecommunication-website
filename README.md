@@ -19,4 +19,4 @@ This project was created purely for educational purposes. It served as a way to 
 - CSS3 for styling and positioning elements on the page.
   
 **Live Demo**  
-Checkout the live version of the project here
+Checkout the live version of the project here  https://bridgetadeyemi.github.io/IPNX-Telecommunication-website/
