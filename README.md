@@ -9,7 +9,7 @@ This website was recreated as a part of my learning journey to strengthen my und
 **Key Features**
 - Built with basic HTML and CSS.
 - Focused on learning positioning techniques in CSS.
-- A fully functional and responsive layout based on the original design.
+- It provides a desktop only experience
   
 **Purpose**
 This project was created purely for educational purposes. It served as a way to practice and improve my skills in web development, specifically in the area of element positioning with CSS.
@@ -17,3 +17,6 @@ This project was created purely for educational purposes. It served as a way to 
 **Technologies Used**
 - HTML5 for structuring the content.
 - CSS3 for styling and positioning elements on the page.
+  
+**Live Demo**  
+Checkout the live version of the project here
